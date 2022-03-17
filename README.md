@@ -1,5 +1,5 @@
 ## IDA_Final_Exam
-Analysis of a dataset with Visualization using Matplotlib ans Seaborn.
+Analysis of a dataset with Visualization using Matplotlib and Seaborn.
 
 ## Built with
 ```python
@@ -10,3 +10,6 @@ import seaborn as sns
 ```
 ## Dataset
 Dataset is taken from Kaggle [see](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset).
+
+## Done by:
+Onayeva Alua
